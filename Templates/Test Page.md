@@ -7,15 +7,6 @@ created: 2025-03-26T18:09:48+11:00
 ---
 ![[Test Page.png|700x700]]
 
-# Heading 1
-Lorem ipsum.
-## Heading 2
-Lorem ipsum.
-### Heading 3
-Lorem ipsum.
-#### Heading 4
-Lorem ipsum.
-
 | | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | SCR | 7 | 15 | 8 | 10 | 12 | 20 |
