@@ -1,11 +1,24 @@
 ---
 tags:
   - Test
-
-modified: 2025-04-01T00:52:06+11:00
+  - Template
+  - NPC
+modified: 2025-04-01T00:55:06+11:00
 created: 2025-03-26T18:09:48+11:00
 ---
 ![[Test Page.png|700x700]]
+***
+**Full Name:**
+**Alias/es:**
+***
+#### Description
+Description Goes here.
+
+#### Secrets
+
+```spoiler
+This is a spoiler!
+```
 
 | | STR | DEX | CON | INT | WIS | CHA |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
