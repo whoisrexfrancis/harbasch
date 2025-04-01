@@ -23,7 +23,8 @@ body {
   /* 5. Improve text rendering */
   -webkit-font-smoothing: antialiased;
   background-color:#111 !important;
-  border:10px #cdefef !important;
+  border:10px #ff0000 !important;
+  text-color: #eeeeee !important;
 }
 
 /* 6. Improve media defaults */
